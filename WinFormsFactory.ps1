@@ -1,3 +1,22 @@
+# WinFormsFactory - A factory for creating and configuring WinForms controls from primitive parameters.
+# Copyright (C) 2025 Mats Anders Soot Larsen
+# SPDX-License-Identifier: LGPL-2.1-or-later
+#
+# This library is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public License
+# as published by the Free Software Foundation; either version 2.1 of
+# the License, or (at your option) any later version.
+#
+# This library is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with this library; if not, see <https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>.
+
+# Should be source imported before use and assemblies added.
+# The added assemblies in this class only serve as reminders.
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
