@@ -1,7 +1,7 @@
 
 ## License
 WinFormsFactory is free software licensed under the GNU Lesser General Public License, version 2.1 or (at your option) any later version.  
-See [ICENSE for details.
+See LICENSE for details.
 
 **Using this library in your scripts or applications:** You can import and use the module in non‑LGPL code. If you modify the library itself and distribute those modifications, you must provide the modified source under the LGPL. If you redistribute the module together with your app, include this license and comply with the terms described in the LICENSE file.
 
